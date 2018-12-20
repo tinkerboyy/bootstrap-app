@@ -12,7 +12,7 @@ import {
   Image
 } from 'react-bootstrap';
 
-import './App.css';
+import './App.scss';
 
 const styles = {
   height: '500px',
